@@ -1,0 +1,508 @@
+{
+  "albums": [
+    {
+      "id": 1728893018642,
+      "title": "Selected Ambient Works 85-92",
+      "artist": "Aphex Twin",
+      "cover": "https://i.scdn.co/image/ab67616d00001e0238906032688bb13b135ce19a",
+      "spotify": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k?si=5yqGlt3dRDqwIf-oIq5E1w"
+    },
+    {
+      "id": 1728893275893,
+      "title": "Bicep",
+      "artist": "Bicep",
+      "cover": "https://i.scdn.co/image/ab67616d00001e02d4322a9004288009f6da2975",
+      "spotify": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo?si=PPI-r0PQQkWo2jqsvnYcyQ"
+    },
+    {
+      "id": 1730101887761,
+      "title": "Rules",
+      "artist": "The Whitest Boy Alive",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c76fb771baf705faafa72e90",
+      "spotify": "https://open.spotify.com/album/2YXH04kALe6nTsLi6jEPDT?si=2G1L2wENSH---4n3el2l4A"
+    },
+    {
+      "id": 1730190588124,
+      "title": "Boavista",
+      "artist": "Stephan Bodzin",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735f802c0b56a577c75dc3c966",
+      "spotify": "https://open.spotify.com/album/6KxqCQfOLFFfiw5R16CW2R?si=yIUS1espR4yfAlNpbGmt5Q"
+    },
+    {
+      "id": 1730190654105,
+      "title": "Days To Come",
+      "artist": "Bonobo",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273772c8ad8cfe3474f36bbad4a",
+      "spotify": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn?si=ephk6jRtQhSULnIpqxxgBQ"
+    },
+    {
+      "id": 1730190723437,
+      "title": "Mezzanine",
+      "artist": "Massive Attack",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732fcb0a3c7a66e516b11cd26e",
+      "spotify": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR?si=6DaoeoknQ2OHB2a5VhAttw"
+    },
+    {
+      "id": 1730191207297,
+      "title": "Melody A.M.",
+      "artist": "Röyksopp",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2731e5655cd8db911dc48ea57df",
+      "spotify": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0?si=gJHO_9PcQvKeX-bJog0N0Q"
+    },
+    {
+      "id": 1730191701368,
+      "title": "I Am Not a Doctor",
+      "artist": "Moloko",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27300b70f9037eea04fae905c86",
+      "spotify": "https://open.spotify.com/album/1i3E3ENCRZZC726vqMJTLF?si=f3J5kFiaRyy8QuvKiqvw6g"
+    },
+    {
+      "id": 1730191943101,
+      "title": "Moon Safari",
+      "artist": "Air",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2731216e4f7e84af70ef18146ed",
+      "spotify": "https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA?si=z195MB_bRBqlmn0RKGc3Hg"
+    },
+    {
+      "id": 1730191983585,
+      "title": "Endtroducing.....",
+      "artist": "DJ Shadow",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c02294cf9b5ec88cd939a8a6",
+      "spotify": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN?si=jnQG86aVT92TnWrGwhg6Ag"
+    },
+    {
+      "id": 1730194240606,
+      "title": "The Last Resort",
+      "artist": "trentemøller",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27312467d7cca4ad137bbf16b43",
+      "spotify": "https://open.spotify.com/album/77yan5ZgQeCzOUNWX8qwsu?si=OoF_r8WqQe2AOGiacjNWCw"
+    },
+    {
+      "id": 1730194555141,
+      "title": "Play",
+      "artist": "Moby",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273f675ddc7a8c113362f983f8b",
+      "spotify": "https://open.spotify.com/album/4KZWx8zo5ym89aopr0dBIb?si=WVlpaLeJQ_OTDoiS0dzDjw"
+    },
+    {
+      "id": 1730367196908,
+      "title": "Lamb",
+      "artist": "Lamb",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2733c08b20bf6f4a4808f3d5120",
+      "spotify": "https://open.spotify.com/album/6Aj5G15ET1w6vIP2FyUEYS?si=Du1ui0QsR8eHOGioyJB7vQ"
+    },
+    {
+      "id": 1730367228601,
+      "title": "100th Window",
+      "artist": "Massive Attack",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273a6ca9857d2c0368e756e833f",
+      "spotify": "https://open.spotify.com/album/60szvcndZTCqG9E7GSAplB?si=qIUPvsZ-S0G2axDSqSLoRw"
+    },
+    {
+      "id": 1730367293975,
+      "title": "A Hundred Days Off",
+      "artist": "Underworld",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2731197be5a8ec09edc3befbe71",
+      "spotify": "https://open.spotify.com/album/5n192ghquuwEFORZEtNyLg?si=89e48ec835c24aa7"
+    },
+    {
+      "id": 1730367422484,
+      "title": "The Fat of the Land",
+      "artist": "The Prodigy",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2738688e410538bc27972791f4c",
+      "spotify": "https://open.spotify.com/album/4fdgcEVMdJe0KVgupMNJAP?si=CkPtNpTRSYOya7I0IkbRcA"
+    },
+    {
+      "id": 1730367469130,
+      "title": "Music for the Jilted Generation",
+      "artist": "The Prodigy",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c0f16d3c653999907e74e5ba",
+      "spotify": "https://open.spotify.com/album/4qhJwKBr2ksxAUFjfJd3rb?si=r2veC-ZQRVaKY1MzV9-MTg"
+    },
+    {
+      "id": 1730372554970,
+      "title": "Gorillaz",
+      "artist": "Gorillaz",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273f6c46838e4425ea96e2562fe",
+      "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ?si=ab24b668e20d4331"
+    },
+    {
+      "id": 1730372929857,
+      "title": "Transformer",
+      "artist": "Lou Reed",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d55149748dca0e5a1f40778e",
+      "spotify": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St?si=8crCk6f9QpmRDCPLYLzj4A"
+    },
+    {
+      "id": 1730373132355,
+      "title": "Life of Leisure",
+      "artist": "Washed Out",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273cd4896d5151581d35aa1e5c0",
+      "spotify": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC?si=-BoGPWSpRPumioWnhzJ28w"
+    },
+    {
+      "id": 1730373210624,
+      "title": "Purple Noon",
+      "artist": "Washed Out",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2734c363dfe0b6ac34d41cf5a02",
+      "spotify": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc?si=Lq7OK5hoS4a8JLo5XqNTDg"
+    },
+    {
+      "id": 1730373238492,
+      "title": "18",
+      "artist": "Moby",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c6c3ea4f348b73b7f8a20bd4",
+      "spotify": "https://open.spotify.com/album/200xhXQBPc2OWPsZ3koxTc?si=1c0666de5afe4d7d"
+    },
+    {
+      "id": 1730373286977,
+      "title": "Halfway Between the Gutter and the Stars",
+      "artist": "Fatboy Slim",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273349e1e4218d1a8e56d436c2c",
+      "spotify": "https://open.spotify.com/album/37CxGSqaJu06zvYmEyotGS?si=5-gGTXSKR-e9gXpip7BuIg"
+    },
+    {
+      "id": 1730373360126,
+      "title": "Dummy",
+      "artist": "Portishead",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273dc20397b139223620af148f6",
+      "spotify": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno?si=5iHS92HrR_SUfhYjWz-nAA"
+    },
+    {
+      "id": 1730373425231,
+      "title": "Nevermind",
+      "artist": "Nirvana",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6",
+      "spotify": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk?si=8VyyFa4bR4a1lPWUNwbzBw"
+    },
+    {
+      "id": 1730373491548,
+      "title": "(What's The Story) Morning Glory?",
+      "artist": "Oasis",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2737a4c8c59851c88f6794c3cbf",
+      "spotify": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4?si=WHD7bk1UQ3yhvX1I0e8LKQ"
+    },
+    {
+      "id": 1730373567836,
+      "title": "Urban Hymns (Remastered 2016)",
+      "artist": "The Verve",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273707d13d3f87652e737e94d45",
+      "spotify": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD?si=Lbn3RyCWQ4KAVhu58f63Pw"
+    },
+    {
+      "id": 1730373709329,
+      "title": "Music Has The Right To Children",
+      "artist": "Boards of Canada",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2739effb26eea559ce6f3fed751",
+      "spotify": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU?si=6oITO198SzWdhag7vM0rOg"
+    },
+    {
+      "id": 1730373835350,
+      "title": "Amber",
+      "artist": "Autechre",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27333411ff5d74ae290a12fdc44",
+      "spotify": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32?si=eFowUXvYREmR1Za0h5ip9Q"
+    },
+    {
+      "id": 1730380987123,
+      "title": "Blade Runner",
+      "artist": "Vangelis",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2739ccdbb2b52240c4c500cac4c",
+      "spotify": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW?si=X72nyYzoRI-6eaWOuYx5bw"
+    },
+    {
+      "id": 1730381283677,
+      "title": "Volume Alpha",
+      "artist": "C418",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273aaeb5c9fb6131977995b7f0e",
+      "spotify": "https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7?si=S2O8ddNbQDKPHEbhtjCBiw"
+    },
+    {
+      "id": 1730381837857,
+      "title": "Overflow",
+      "artist": "Rival Consoles",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2730f16021be36d269cbacdd994",
+      "spotify": "https://open.spotify.com/album/091dnUcBWWE8YXH340kf9Z?si=RwC7kVQrSCi2oCMgI3_1xA"
+    },
+    {
+      "id": 1730454410042,
+      "title": "Rumours",
+      "artist": "Fleetwood Mac",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27357df7ce0eac715cf70e519a7",
+      "spotify": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB?si=-_eQ1hiUQdqHmIY8u4zqpg"
+    },
+    {
+      "id": 1730454577538,
+      "title": "Kind Of Blue",
+      "artist": "Miles Davis",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2737ab89c25093ea3787b1995b4",
+      "spotify": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA?si=a0f860b452964ea3"
+    },
+    {
+      "id": 1730454677464,
+      "title": "Who's Next",
+      "artist": "The Who",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d993d0cd47c0b948d36553c8",
+      "spotify": "https://open.spotify.com/album/5mQnSrc0cFV6greyhJJIR6?si=7af60ff66a1f4b80"
+    },
+    {
+      "id": 1730454795969,
+      "title": "Led Zeppelin",
+      "artist": "Led Zeppelin",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c77c73285cc5cb64d97e1b0f",
+      "spotify": "https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU?si=OpVYnYgUQZOlsCiomGBjPw"
+    },
+    {
+      "id": 1730454829272,
+      "title": "II",
+      "artist": "Led Zeppelin",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273f396ea414b735ef23e2ed1a9",
+      "spotify": "https://open.spotify.com/album/58MQ0PLijVHePUonQlK76Y?si=gjBqxOELRYWmC9x_zNE9tQ"
+    },
+    {
+      "id": 1730454926406,
+      "title": "IV",
+      "artist": "Led Zeppelin",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2734509204d0860cc0cc67e83dc",
+      "spotify": "https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX?si=BHVzjXx_TBytDmp-Hg1oBg"
+    },
+    {
+      "id": 1730455025494,
+      "title": "Wish You Were Here",
+      "artist": "Pink Floyd",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273df3aa3f27dfda3285ca7a2e5",
+      "spotify": "https://open.spotify.com/album/6uvBKDGlJAYLH5Vy6RQVsc?si=kYn77PjUQjuPfjmXCeTgXw"
+    },
+    {
+      "id": 1730455060619,
+      "title": "Sweep Of Days",
+      "artist": "Blue Foundation",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732cc51f32a010412f74d113d3",
+      "spotify": "https://open.spotify.com/album/2Te8IjjnWB7qzHtZIqJ6e3?si=Nj9DNJsFRB6M-6b_jiB0Zg"
+    },
+    {
+      "id": 1730455183358,
+      "title": "Selected Ambient Works Volume II",
+      "artist": "Aphex Twin",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273b0cdf32bc53b002541d03b91",
+      "spotify": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i?si=BNfHrkxBQMqTxpoZgbm0pA"
+    },
+    {
+      "id": 1730455304577,
+      "title": "A Broadcast From The Computerhell Cabin",
+      "artist": "Junkie XL",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27382629e9f614da4c1f8db4dbe",
+      "spotify": "https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy?si=TEA5LsBFTR-Y3ZHbLOjWMg"
+    },
+    {
+      "id": 1730456153102,
+      "title": "Ill Communication",
+      "artist": "Beastie Boys",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273436a305db8bd85b820da3e5a",
+      "spotify": "https://open.spotify.com/album/6lfjbwFGzQ6aSNP1N3JlT8?si=FfzPvz_ETjiY_S8-swLNVg"
+    },
+    {
+      "id": 1730458861924,
+      "title": "Greatest Hits",
+      "artist": "The Police",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732c43e73e7d34cae022f53daa",
+      "spotify": "https://open.spotify.com/album/1wNDlgfrrLKInAgz5W4b2n?si=E39BtCadRN-kA9qTbMp4dQ"
+    },
+    {
+      "id": 1730459141604,
+      "title": "Blue Lines",
+      "artist": "Massive Attack",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273af5beb00d940f5ede452d6b5",
+      "spotify": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf?si=B3Palcq9SeirDz_YEGXH8g"
+    },
+    {
+      "id": 1730459208348,
+      "title": "88:88",
+      "artist": "Makeup And Vanity Set",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273dcebf3ab0328152a38fbf187",
+      "spotify": "https://open.spotify.com/album/2j4ro7dtXWPrSjjE7mdKqY?si=92Ze7GN4Ryex6MMVk-Hkyg"
+    },
+    {
+      "id": 1730459765904,
+      "title": "Wilderness",
+      "artist": "Makeup And Vanity Set",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27377c80ef9fa648379d12a7388",
+      "spotify": "https://open.spotify.com/album/1DZIccfLNo01NIoRrxjiE0?si=kRlNBXmMRH6-HLZlwtis1Q"
+    },
+    {
+      "id": 1730703463274,
+      "title": "Brave New World ",
+      "artist": "Iron Maiden",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273e1c50403652529dccf16f84c",
+      "spotify": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB?si=NRV2AjM5Qw-Hw9844iUNfw"
+    },
+    {
+      "id": 1730703809657,
+      "title": "Back To The Start",
+      "artist": "Megadeth",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273cc6b07df8741aaf3b6779f20",
+      "spotify": "https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4?si=3NEF_mx_T0G-fkgidhzW1g"
+    },
+    {
+      "id": 1730703903616,
+      "title": "Vulgar Display of Power",
+      "artist": "Pantera",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273347c0a40c1e3f0c890a6d9d6",
+      "spotify": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0?si=eqM9zsaOTgWRuJNO2l0PHQ"
+    },
+    {
+      "id": 1730703926558,
+      "title": "Shadow Zone",
+      "artist": "Static-X",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27351e68094dd2b709d70f1778f",
+      "spotify": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3?si=2aM9jnjDQSWCLWEmjyPTCQ"
+    },
+    {
+      "id": 1730703962466,
+      "title": "Toxicity",
+      "artist": "System Of A Down",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27330d45198d0c9e8841f9a9578",
+      "spotify": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh?si=7QJVC7JjR_GhQM1TEc8GUg"
+    },
+    {
+      "id": 1730704025216,
+      "title": "10,000 Days",
+      "artist": "Tool",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273781369aabc39c792cc55604f",
+      "spotify": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk?si=2-M5oQYqTYyKAg69WxueeQ"
+    },
+    {
+      "id": 1730704093845,
+      "title": "Lateralus",
+      "artist": "Tool",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ca41a947c13b78749c4953b1",
+      "spotify": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T?si=d6g9qPsiSD2qSbyU3RlVvQ"
+    },
+    {
+      "id": 1730704331387,
+      "title": "Undertow",
+      "artist": "Tool",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27382298636c94b8167c4793db2",
+      "spotify": "https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0?si=APzUDHyqRQGNww05Pb8TIQ"
+    },
+    {
+      "id": 1730704394334,
+      "title": "20",
+      "artist": "Hardfloor",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2738a75e209fdfc8b5d73afad82",
+      "spotify": "https://open.spotify.com/album/5CdGsWZLHv1NotFERCWljF?si=u0SVLDgMQ1a9l-hnf9y3gw"
+    },
+    {
+      "id": 1730704527144,
+      "title": "Cold Water Music",
+      "artist": "Aim",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c80241df1db25b8a617b60f6",
+      "spotify": "https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R?si=vMi5jHxxSK2hlTaEA-0MSA"
+    },
+    {
+      "id": 1730709674977,
+      "title": "Paracosm",
+      "artist": "Washed Out",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273cd0abcd5ef416a6219a7e624",
+      "spotify": "https://open.spotify.com/album/7tqjJHaaMQFUqTW9kaZWN5?si=IGky8j5yTdqiGaJb1Lt82w"
+    },
+    {
+      "id": 1730713719540,
+      "title": "The Essential Bill Withers",
+      "artist": "Bill Withers",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273351dac819b0fdd6066d3832b",
+      "spotify": "https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ?si=rg3l4UXgTcm7vakQuRNHJg"
+    },
+    {
+      "id": 1730726331231,
+      "title": "Rage Against The Machine",
+      "artist": "Rage Against The Machine",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27354ab617bc2d4974ab6ffbece",
+      "spotify": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4?si=EivvoA5bQTWQqLXykfktoQ"
+    },
+    {
+      "id": 1730726391641,
+      "title": "Californication",
+      "artist": "Red Hot Chili Peppers",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273a9249ebb15ca7a5b75f16a90",
+      "spotify": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD?si=QS-cxLn6T6Ok6Oach4MQAg"
+    },
+    {
+      "id": 1730726463577,
+      "title": "Origin of Symmetry",
+      "artist": "Muse",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735225e9931a558f6d2f541a7d",
+      "spotify": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn?si=ejnV99ZZTFqRgYhek1m1gA"
+    },
+    {
+      "id": 1730726481614,
+      "title": "Absolution",
+      "artist": "Muse",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2733303a842ee1bc0b23204333d",
+      "spotify": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s?si=U91OpImxSwenG-YWuDfYQw"
+    },
+    {
+      "id": 1732003450807,
+      "title": "For Lack Of A Better Name",
+      "artist": "Deadmau5",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d49d976721f4dc6b3c6225ad",
+      "spotify": "https://open.spotify.com/album/6WJvrBlL3zgu4mVoKyvMkl?si=4MHBLHrmReiYOgoptTUbdw"
+    },
+    {
+      "id": 1732791125859,
+      "title": "Command & Conquer",
+      "artist": "Frank Klepacki",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735879eb44c8919b9dfbe8e730",
+      "spotify": "https://open.spotify.com/album/6diK51gAlxp4pbpmoe8Ahc?si=JLHy61YFQWa4YCYyjxVnzA"
+    },
+    {
+      "id": 1733398927715,
+      "title": "A Rush of Blood to the Head",
+      "artist": "Coldplay",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82",
+      "spotify": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ?si=ko2005pcQ5ib1_alVXEU5w"
+    },
+    {
+      "id": 1734000715545,
+      "title": "Stundum",
+      "artist": "Papir",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273a52fa8b5119603e4cecf2c59",
+      "spotify": "https://open.spotify.com/album/22OQGbPWQ19n6qEWsZQzib?si=STOgg7LlSoWY8AHoe0lB3g"
+    },
+    {
+      "id": 1734000737434,
+      "title": "III",
+      "artist": "Papir",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273a466b9e4cd553b4e9419493b",
+      "spotify": "https://open.spotify.com/album/0SzemBi6IYecTfxyQZvW9k?si=4e4hSElVTBWIT8VSUZgg9Q"
+    },
+    {
+      "id": 1734000750648,
+      "title": "IIII",
+      "artist": "Papir",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2737f48b510141239d15056cd08",
+      "spotify": "https://open.spotify.com/album/0hbRRpXKcbLB2VqfmJr4j4?si=jUdQr8HhSA-4NbFt68v2eQ"
+    },
+    {
+      "id": 1734000769671,
+      "title": "Kommer med fred",
+      "artist": "Spids Nøgenhat",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273667a28625af645fe0a3a24e7",
+      "spotify": "https://open.spotify.com/album/3kdpIipHURAqEY0Mp8IX2d?si=jGZ8yGwlRu2FNrR13HbPcg"
+    },
+    {
+      "id": 1734003609661,
+      "title": "Tempel",
+      "artist": "Colour Haze",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273c9b05526dba5e4d1f27d8309",
+      "spotify": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5?si=9SGVwm4JT-Cd2mn3lH-7ug"
+    },
+    {
+      "id": 1734005286834,
+      "title": "Riskin' It All (2009 - Remastered)",
+      "artist": "D-A-D",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273bf385707f791826904c3c781",
+      "spotify": "https://open.spotify.com/album/2Qrw5hEkU1Nl9QU15bPaHs?si=GXoA8mvMQ1aNYdKBG-r24A"
+    }
+  ]
+}
